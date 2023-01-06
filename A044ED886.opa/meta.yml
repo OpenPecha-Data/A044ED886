@@ -1,0 +1,19 @@
+id: A044ED886
+title: Brief Offering Prayer to Durtrö Lhamo, Mistress of the Charnel Ground
+type: translation
+pechas:
+- I2A1E16A9
+- I7DD75FA5
+source_metadata:
+  languages:
+  - en
+  - bo
+  datatype: PlainText
+  created_at: 2023-01-04 11:52:07.067568
+  last_modified_at: 2023-01-04 11:52:07.067581
+  collections:
+  - Fifth Dzogchen Rinpoche
+  - Works of Tibetan Masters
+alignment_to_base:
+  I2A1E16A9/BF88: 0C7D
+  I7DD75FA5/F449: 0C7D
